@@ -37,5 +37,6 @@ $ python2 run.py
 3. Lalu Tempel 
 4. Tunggu Crack Selesai
 5. Selamat Anda Jadi Hekel Fb
-
 ## ⇨ Wibu Gue 
+
+## ⇨Aditya X Rizky
