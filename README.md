@@ -6,7 +6,7 @@
 ## ⇨ ★ Feature Dump ★
 [✯] Dump From Friend  
 [✯] Dump From Public  
-[✯] Dump From Followers   
+[✯] Dump From Followers  
 [✯] Fast Dump  
 ## ⇨ ★ Feature Crack ★
 [✯] Crack Default  
@@ -33,11 +33,9 @@ $ cd WIBUU
 $ python2 run.py  
 ## ⇨ ★ How To Use ★
 1. Cari Akun Target
-2. Dump ID Terlebih Dahulu
-3. Masukkan ID Target
-4. Tunggu Hingga Selesai Dump
-5. Setelah Selesai Dump, Maka Keluar Output File
-6. Salin Output File
-7. Tekan Kembali, Kemudian Mulai Crack
-8. Masukkan File Output Tadi
-## ⇨  Kontol Adit Maha Keren
+2. Salin Id Akun Target
+3. Lalu Tempel 
+4. Tunggu Crack Selesai
+5. Selamat Anda Jadi Hekel Fb
+
+## ⇨ Wibu Gue 
