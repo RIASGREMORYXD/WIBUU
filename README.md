@@ -26,7 +26,8 @@ $ pip install bs4
 $ pip install requests  
 $ pip install mechanize  
 $ pip install futures   
-$ https://github.com/RIASGREMORYXD/WIBUU
+$ git clone
+https://github.com/RIASGREMORYXD/WIBUU
 # ⇨  Run Script
 $ cd WIBUU  
 $ python2 run.py  
