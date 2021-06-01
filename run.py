@@ -50,7 +50,7 @@ op = bulan[nTemp]
 
 def logo():
 	os.system("clear")
-	print("  \033[0;91m___ ___ __  __ ___ ___ \n \033[0;91m/ __|_ _|  \/  | _ ) __| \033[0;96mAU\033[0;97m : ADITYA GREMORY\n\033[0;97m \__ \| || |\/| | _ \ _|  \033[0;91mFB\033[0;97m : FB.ME/ADITY4.XD\n\033[0;97m |___/___|_|  |_|___/_|   \033[0;93mGH\033[0;97m : GITHUB.COM/RIASGREMORYXD")
+	print("  \033[0;91m____WIBUUU______ \n \033[0;91m/ ____ADITYAWIBU| \033[0;96mAU\033[0;97m : ADITYA GREMORY\n\033[0;97m \__ \| || |\/| | _ \ _|  \033[0;91mFB\033[0;97m : FB.ME/ADITY4.XD\n\033[0;97m |___/___|_|  |_|___/_|   \033[0;93mGH\033[0;97m : GITHUB.COM/RIASGREMORYXD")
 
 def bot_komen():
     try:
