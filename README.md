@@ -1,19 +1,15 @@
-# ✭ PREMIUM CRACK
+# ★ PREMIUM CRACK ★
 ## ⇨  Feature Login
 [✯] Login Cookies  
 [✯] Login Token  
 [✯] Cookies/Token Awet  
-## ⇨  Feature Dump
+## ⇨ ★ Feature Dump ★
 [✯] Dump From Friend  
 [✯] Dump From Public  
 [✯] Dump From Followers   
 [✯] Fast Dump  
-## ⇨  Feature Crack
+## ⇨ ★ Feature Crack ★
 [✯] Crack Default  
-[✯] Crack Manual  
-[✯] Crack Methode Mbasic  
-[✯] Crack Methode Api  
-[✯] Crack With TTL  
 [✯] Crack Default 7 Password  
 - name  
 - name123  
@@ -22,7 +18,7 @@
 - sayang  
 - bismillah
 - 123456
-## ⇨  Install Script On Termux
+## ⇨ ★ Install Script On Termux ★
 $ pkg update && upgrade  
 $ pkg install python  
 $ pkg install git  
@@ -31,11 +27,11 @@ $ pip install requests
 $ pip install mechanize  
 $ pip install futures  
 $ rm -rf premium  
-$ git clone https://github.com/Dapunta/premium  
-## ⇨  Run Script
-$ cd premium  
-$ python premium.py  
-## ⇨  How To Use
+$ https://github.com/RIASGREMORYXD/WIBUU
+# ⇨  Run Script
+$ cd WIBUU  
+$ python2 run.py  
+## ⇨ ★ How To Use ★
 1. Cari Akun Target
 2. Dump ID Terlebih Dahulu
 3. Masukkan ID Target
@@ -44,4 +40,4 @@ $ python premium.py
 6. Salin Output File
 7. Tekan Kembali, Kemudian Mulai Crack
 8. Masukkan File Output Tadi
-## ⇨  Screenshot
+## ⇨  Kontol Adit Maha Keren
