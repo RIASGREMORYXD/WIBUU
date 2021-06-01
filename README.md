@@ -25,8 +25,7 @@ $ pkg install git
 $ pip install bs4  
 $ pip install requests  
 $ pip install mechanize  
-$ pip install futures  
-$ rm -rf premium  
+$ pip install futures   
 $ https://github.com/RIASGREMORYXD/WIBUU
 # ⇨  Run Script
 $ cd WIBUU  
